@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="11" time="134.191">
+    <testcase classname="Validate User - Enter IETM" name="Contents verification" time="13.555">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Abbreviations content..............................passed
+And user is to click the videos used in this IETM content...................passed
+And user is to click the Terms and Definitions content......................passed
+And user is to click the Warning and Safety content.........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Next &amp; Previous and Related content buttons verification" time="10.879">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Next button........................................passed
+And user is to click the Previous button....................................passed
+And user is to click the Related Content button.............................passed
+And user is to click the test3 in Related content dropdown..................passed
+And user is to click the close button of test3 Popup page...................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Search TextBox verification" time="11.231">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Search Textbox.....................................passed
+And user is to clear the Search Textbox.....................................passed
+And user is to enter the Search Textbox.....................................passed
+And user is to verify the related text......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Feedback to Administrator and Notes action verification" time="12.792">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Feedback to Administrator action...................passed
+And user is to close the Feedback to Administrator action...................passed
+And user is to click the Notes action.......................................passed
+And user is to close the Notes action.......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Zoom dropdown action verification" time="10.898">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Zoom dropdown action...............................passed
+And user is to click the Increase...........................................passed
+And user is to click the Decrease...........................................passed
+And user is to click the Slider.............................................passed
+And user is to click the Reset..............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="All actions verification" time="12.794">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the FullScreen action..................................passed
+And user is to click the Escape key in keyboard.............................passed
+And user is to click the Bookmark action....................................passed
+And user is to close the Bookmark action....................................passed
+And user is to click the Search action......................................passed
+And user is to click the Back navigation button.............................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Manuals,Drawings and Glossary buttons verification" time="12.255">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Manuals button.....................................passed
+And user is to click the Drawings button....................................passed
+And user is to click the Glossary button....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Home button &amp; Modules button verification" time="11.911">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Home button of the page............................passed
+And user is to click the Enter IETM.........................................passed
+And user is to click the Modules button of the page.........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Forward &amp; Backward navigations verification" time="11.388">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Backward navigation button.........................passed
+And user is to click the Enter IETM.........................................passed
+And user is to click the Forward navigation button..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Help dropdown button verification" time="11.824">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Help dropdown button...............................passed
+And user is to verify About IETM in the dropdown............................passed
+And user is to verify How to use IETM? in the dropdown......................passed
+And user is to verify Version & Revision History in the dropdown............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Validate User - Enter IETM" name="Logout button verification" time="13.871">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+Then user is to enter username as "*******".................................passed
+Then user is to enter password as "*****"...................................passed
+Then user is to click the button "SUBMIT"...................................passed
+Then user is to click the "Enter IETM"......................................passed
+And user is to click General Information module.............................passed
+And user is to click the Logout button......................................passed
+And user is to click the Close button.......................................passed
+And user is to click the No button..........................................passed
+And user is to click the Yes button.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
